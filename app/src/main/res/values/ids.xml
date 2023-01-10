@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="accion_llegar" type="id" />
+    <item name="accion_compartir" type="id" />
+</resources>
